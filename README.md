@@ -5,7 +5,7 @@
 Code to control a servomotor with a Myoware sensor
 
 # Firmware upload instructions
-This is a [Platformio](https:\\platformio.org) project. To compile and upload the firmware to one of the supported boards, run the following command:
+This is a [Platformio](http://platformio.org/) project. To compile and upload the firmware to one of the supported boards, run the following command:
 ```bash
 ~/Myoware-servo-control$ platformio run --target upload
 ```

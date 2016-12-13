@@ -18,7 +18,7 @@ class MyoControl {
         volatile unsigned int emg;
         double emgMean;
         double emgMvc;
-        bool sampleOk;
+        bool sampleOk, isActive;
 };
 
 #endif

@@ -1,3 +1,10 @@
+/*
+ * Copyright 2019 Autofabricantes
+ * Author: Alvaro Villoslada (Alvipe)
+ * This file is part of Myoware-servo-control (https://github.com/Autofabricantes/Myoware-servo-control).
+ * This code is distributed under a GPL 3.0 license
+ */
+
 /* This firmware implements a simple threshold-based myoelectric control system
 that uses a Myoware EMG sensor as the control input. Instead of using the
 hardware-processed EMG signal provided by the Myoware sensor, the raw EMG signal
